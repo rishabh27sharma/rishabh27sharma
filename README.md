@@ -3,6 +3,7 @@
 Hi, I'm **Rishabh Sharma**
 
 - 🔭 I’m currently working at [Persistent Systems Ltd.](https://www.persistent.com/)
+- 🏅 AWS Certified | Azure Certified | Machine Learning
 - 🌱 I’m currently having a knowledge of AWS, PySpark, Python, MEAN Stack, DevOps, Terraform, Ansible
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about Tech, Cricket 
