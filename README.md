@@ -10,7 +10,7 @@ Hi, I'm **Rishabh Sharma**
 - 📫 How to reach me: **hrishabhsharma183@gmail.com**
 - ⚡ Fun fact: **Chasing Stars!**
 
-<img align="right" alt="GIF" src="https://github.com/rishabh27sharma/rishabh27sharma/blob/master/code.gif?raw=true" width="500" height="320"
+<img align="right" alt="GIF" src="https://github.com/rishabh27sharma/rishabh27sharma/blob/master/code.gif?raw=true" width="500" height="320">
 <!-- <img align='right' src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="300"> -->
 
 <h3 align="left">Connect with me:</h3>
