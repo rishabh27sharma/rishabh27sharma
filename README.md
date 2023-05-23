@@ -15,11 +15,18 @@ Hi, I'm **Rishabh Sharma**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rishabh27sharma/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="rishabh's linkedin" height="30" width="40" /></a>
-<a href="https://leetcode.com/rishabh27sharma/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" alt="rishabh's leetcode" height="30" width="40" /></a>
-<a href="https://rishabh27sharma.medium.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" alt="rishabh's medium" height="30" width="40" /></a>
-<a href="https://twitter.com/rishabh27sharma/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="rishabh's twitter" height="30" width="40" /></a>
-<a href="https://www.instagram.com/rishabh27sharma/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="rishabh's instagram" height="30" width="40" /></a>
+<a href="https://twitter.com/rishabh27sharma/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/rishabh27sharma/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rishabh27sharma/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/rishabh27sharma/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/rishabh27sharma/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/rishabh27sharma/" height="30" width="40" /></a>
+<a href="https://rishabh27sharma.medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://rishabh27sharma.medium.com/" height="30" width="40" /></a>
+<a href="https://leetcode.com/rishabh27sharma/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/rishabh27sharma/" height="30" width="40" /></a>
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishabh27sharma&show_icons=true&locale=en&layout=compact" alt="rishabh27sharma" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishabh27sharma&show_icons=true&locale=en" alt="rishabh27sharma" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishabh27sharma&" alt="rishabh27sharma" /></p>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
