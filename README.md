@@ -2,9 +2,9 @@
 
 Hi, I'm **Rishabh Sharma**
 
-- 🔭 I’m currently working at [Persistent Systems Ltd.](https://www.persistent.com/)
-- 🏅 AWS Certified | Azure Certified | Machine Learning
-- 🌱 I’m currently having a knowledge of AWS, PySpark, Python, MEAN Stack, DevOps, Terraform, Ansible
+- 🔭 I’m currently working as a Data Engineer at [Persistent Systems Ltd.](https://www.persistent.com/)
+- 🏅 AWS Certified | Azure Certified | Databricks Certified Data Engineer 
+- 👨🏽‍💻 Experienced in Azure Databricks, AWS, PySpark, Python, SQL, Data Warehousing, Data Lake, Data Analytics, ETL
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about Tech, Cricket 
 - 📫 How to reach me: **hrishabhsharma183@gmail.com**
@@ -15,7 +15,6 @@ Hi, I'm **Rishabh Sharma**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/rishabh27sharma/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/rishabh27sharma/" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rishabh27sharma/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/rishabh27sharma/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/rishabh27sharma/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/rishabh27sharma/" height="30" width="40" /></a>
 <a href="https://rishabh27sharma.medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://rishabh27sharma.medium.com/" height="30" width="40" /></a>
