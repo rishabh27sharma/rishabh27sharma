@@ -2,11 +2,11 @@
 
 Hi, I'm **Rishabh Sharma**
 
-- 🔭 I’m currently working as a Data Engineer at [Persistent Systems Ltd.](https://www.persistent.com/)
-- 🏅 AWS Certified | Azure Certified | Databricks Certified Data Engineer 
-- 👨🏽‍💻 Experienced in Azure Databricks, AWS, PySpark, Python, SQL, Data Warehousing, Data Lake, Data Analytics, ETL
+- 🔭 I’m currently working as a Data Engineer at [IBM](https://www.ibm.com/in-en)
+- 🏅 Databricks Certified Data Engineer | Azure Certified | AWS Certified
+- 👨🏽‍💻 Experienced in Databricks, Azure/AWS Cloud Platforms, SQL, PySpark, DBT, Python, Data Warehousing, Data Lakehouse, Data Analytics, ETL
 - 👯 I’m looking to collaborate on **Open Source Projects**
-- 💬 Ask me about Tech, Cricket 
+- 💬 Ask me about Tech, Cricket
 - 📫 How to reach me: **hrishabhsharma183@gmail.com**
 - ⚡ Fun fact: **Chasing Stars!**
 
